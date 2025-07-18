@@ -5,11 +5,10 @@ scikit-learn
 matplotlib
 seaborn
 scipy
-# Additional libraries for data handling and visualization
 plotly
-# Additional libraries for deep learning
 torch
 tqdm
 torchvision
 opencv-python
 open3d
+torch-summary
