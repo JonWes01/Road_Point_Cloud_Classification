@@ -12,3 +12,5 @@ torchvision
 opencv-python
 open3d
 torch-summary
+pythreejs
+nbformat
