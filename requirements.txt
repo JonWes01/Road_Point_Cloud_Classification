@@ -10,5 +10,6 @@ torch
 tqdm
 torchvision
 opencv-python
+opencv-python-headless
 open3d
 torch-summary
